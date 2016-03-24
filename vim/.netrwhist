@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/dosborne/asl19/paskoocheh_web_deploy/env_vars'
+let g:netrw_dirhist_2='/Users/dosborne/asl19/paskoocheh_web_deploy/.vagrant/provisioners/ansible/inventory'
+let g:netrw_dirhist_3='/Users/dosborne/asl19/paskoocheh'
